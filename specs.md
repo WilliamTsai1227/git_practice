@@ -51,13 +51,13 @@
 ### 5. 價格
 
 - **Oculus Rift S:**
-  - $399
+  - $3990
 - **HTC Vive Cosmos:**
-  - $699
+  - $6990
 - **PlayStation VR:**
-  - $299
+  - $2990
 - **Valve Index:**
-  - $999
+  - $9990
 
 ## 結論
 
